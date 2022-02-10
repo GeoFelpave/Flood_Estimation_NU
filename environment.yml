@@ -1,7 +1,6 @@
-name: example-environment
-channels:
-  - pip3 install
+name: python 3.6
 dependencies:
+  - python=3.6
   - pandas
   - numpy
   - lmoments3
