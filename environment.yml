@@ -3,7 +3,6 @@ dependencies:
   - python=3.6
   - pandas
   - numpy
-  - lmoments3
   - scipy
   - urllib3
   - certifi
