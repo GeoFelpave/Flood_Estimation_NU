@@ -1,13 +1,12 @@
 name: example-environment
 channels:
-  - conda-forge
+  - pip3 install
 dependencies:
   - pandas
   - numpy
   - lmoments3
   - scipy
   - urllib3
-  - json
   - certifi
   - ipywidgets
   - bokeh
