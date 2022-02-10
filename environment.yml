@@ -1,0 +1,15 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - lmoments3
+  - scipy
+  - urllib3
+  - json
+  - certifi
+  - ipywidgets
+  - bokeh
+  - ipyleaflet
+  - geopandas
